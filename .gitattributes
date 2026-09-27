@@ -1,0 +1,13 @@
+# Do not edit manually
+node_modules/* linguist-vendored
+
+*.map linguist-generated
+*.astro linguist-detectable
+* text=auto
+* text=auto eol=lf
+*.min.js linguist-generated
+dist/* linguist-vendored
+public/** linguist-vendored
+*.jpeg binary
+
+src/*.astro linguist-detectable
